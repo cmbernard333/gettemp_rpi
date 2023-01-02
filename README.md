@@ -6,6 +6,8 @@ A simple C program for getting the temperature for a raspberry pi using the ther
 
 No dependencies required outside of `gcc` and `make`.
 
+Supports `debug` and `release` targets (not that it really needs them).
+
 ```shell
 $ make
 $ ./gettemp
